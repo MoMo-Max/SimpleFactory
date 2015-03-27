@@ -13,7 +13,7 @@ public class Client {
 		Scanner sc = new Scanner(System.in);
 		Api api = Factory.createApi(sc.next());
 		//Api api = Factory.createApi(sc.next());
-		api.operation("使用一般模式使用GIT");
+		api.operation("   的燈泡");
 
 	}
 
